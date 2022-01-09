@@ -1,5 +1,5 @@
 
-menu.add_key_bind('Legit AA')
+menu.add_key_bind('Legit Anti-Aim')
 local cache = false
 local state = false
 client.add_callback('create_move', function()
@@ -14,7 +14,6 @@ client.add_callback('create_move', function()
     if key then
         if isDefusing or isGrabbing then
             console.execute('+use')
-            -- cache = true
         else
             console.execute('-use')
         end
