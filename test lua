@@ -1,1 +1,21 @@
-print('Hello World')
+os.execute('explorer https://discord.gg/YwfW63mVqK')
+
+local local_user = globals.get_username()
+
+local tbl = {
+    prefix = 'Azur Free | ',
+    '[Info]',
+    'Current version [2.1] stable',
+    'Update [09.01]',
+    '- some fixes',
+    endl = ' ',
+  }
+
+for k, v in pairs(tbl) do
+    if k == 'endl' then
+      client.log(v)
+    elseif k ~= 'prefix' then
+      client.log(tbl.prefix .. v)
+    end
+end
+print('Welcome back ' .. local_user .. ' !')
