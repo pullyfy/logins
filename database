@@ -1,8 +1,9 @@
 data = {
   ['stable'] = {
-    ['112117108108121102121'] = 1575702238
+    ['pullyfy_s'] = 1
   },
   ['beta'] = {
+    ['pullyfy_b'] = 2
   }
 }
 return data
