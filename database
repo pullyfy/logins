@@ -1,1 +1,7 @@
-{ user = 'arar', hwid = 101 }
+{
+  ['stable'] = {
+    ['arar'] = 101
+  }
+  ['beta'] = {
+  }
+}
