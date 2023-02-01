@@ -2,6 +2,6 @@
     ['pullyfy'] = {
         ['access'] = 'stable',
         ['hwid'] = 45234523465346,
-        ['time'] = 'unlimited',
+        ['time'] = 222023,
     }
 }
