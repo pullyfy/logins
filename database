@@ -1,9 +1,7 @@
-data = {
-  ['stable'] = {
-    ['112117108108121102121'] = 1575702238
-  },
-  ['beta'] = {
-    ['pullyfy_b'] = 2
-  }
+{
+    ['pullyfy'] = {
+        ['access'] = 'stable',
+        ['hwid'] = 45234523465346,
+        ['time'] = 'unlimited',
+    }
 }
-return data
