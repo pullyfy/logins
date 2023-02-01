@@ -1,7 +1,12 @@
 {
-    ['pullyfy'] = {
+    ['arab'] = {
         ['access'] = 'stable',
+        ['hwid'] = 452348563465346,
+        ['time'] = 'unlimited',
+    },
+    ['pullyfy'] = {
+        ['access'] = 'beta',
         ['hwid'] = 45234523465346,
-        ['time'] = 222023,
-    }
+        ['time'] = 'unlimited',
+    },
 }
