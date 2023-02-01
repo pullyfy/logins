@@ -7,6 +7,6 @@
     ['pullyfy'] = {
         ['access'] = 'beta',
         ['hwid'] = 45234523465346,
-        ['time'] = 'unlimited',
+        ['time'] = 122023,
     },
 }
