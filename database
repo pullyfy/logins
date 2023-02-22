@@ -1,12 +1,12 @@
 {
-    ['Tomy4'] = {
-        ['access'] = 'beta',
-        ['hwid'] = 1700888,
-        ['expire'] = 'unlimited'
-    },
     ['pullyfy'] = {
         ['access'] = 'beta',
         ['hwid'] = 1700888,
         ['expire'] = 'unlimited',
+    },
+    ['Tomy4'] = {
+        ['access'] = 'beta',
+        ['hwid'] = 1700888,
+        ['expire'] = 'unlimited'
     },
 }
