@@ -7,6 +7,6 @@
     ['pullyfy'] = {
         ['access'] = 'beta',
         ['hwid'] = 1700888,
-        ['expire'] = 122023,
+        ['expire'] = 'unlimited',
     },
 }
