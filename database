@@ -14,4 +14,9 @@
         ['hwid'] = 1700888,
         ['expire'] = 'unlimited'
     },
+    ['ryon12341'] = {
+        ['access'] = 'beta',
+        ['hwid'] = 1700888,
+        ['expire'] = 'unlimited'
+    },
 }
