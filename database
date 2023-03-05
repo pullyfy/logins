@@ -9,11 +9,6 @@
         ['hwid'] = 1700888,
         ['expire'] = 'unlimited'
     },
-    ['shiza'] = {
-        ['access'] = 'beta',
-        ['hwid'] = 1700888,
-        ['expire'] = 'unlimited'
-    },
     ['banderxyz'] = {
         ['access'] = 'beta',
         ['hwid'] = 1700888,
