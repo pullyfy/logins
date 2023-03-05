@@ -19,4 +19,9 @@
         ['hwid'] = 1700888,
         ['expire'] = 'unlimited'
     },
+    ['Shapater Boi'] = {
+        ['access'] = 'beta',
+        ['hwid'] = 1700888,
+        ['expire'] = 'unlimited'
+    },
 }
