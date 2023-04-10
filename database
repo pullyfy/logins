@@ -24,4 +24,9 @@
         ['hwid'] = 1700888,
         ['expire'] = 'unlimited'
     },
+    ['Lucky3y3'] = {
+        ['access'] = 'beta',
+        ['hwid'] = 1700888,
+        ['expire'] = 'unlimited'
+    },
 }
