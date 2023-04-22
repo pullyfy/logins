@@ -1544,4 +1544,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['xXxNinja600xXx'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 }
