@@ -1549,4 +1549,10 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['sh4rk'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
+
 }
