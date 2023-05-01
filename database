@@ -1554,5 +1554,20 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['femboysarebetterthangirls'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
+    ['movol'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
+    ['candyhvh123'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 
 }
