@@ -1574,4 +1574,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['mixinus'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 }
