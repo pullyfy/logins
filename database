@@ -1584,4 +1584,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['godenight'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 }
