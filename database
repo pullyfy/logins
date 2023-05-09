@@ -1589,4 +1589,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['Aleff33'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 }
