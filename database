@@ -1599,4 +1599,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['OfficialZapy'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
