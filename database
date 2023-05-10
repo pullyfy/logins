@@ -1594,4 +1594,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
-}
+    ['mishakutam520'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
+} 
