@@ -1604,4 +1604,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['ZersonNorell'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
