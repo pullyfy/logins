@@ -1609,4 +1609,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['lala'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
