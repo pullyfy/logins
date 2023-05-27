@@ -1614,4 +1614,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['isaloof'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
