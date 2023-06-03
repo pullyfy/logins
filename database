@@ -1619,4 +1619,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['Mapke'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
