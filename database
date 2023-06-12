@@ -1624,4 +1624,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['vorix'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
