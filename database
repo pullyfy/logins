@@ -1629,4 +1629,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['One Love'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
