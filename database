@@ -1634,4 +1634,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['Ayxal Gogolev'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
