@@ -1639,4 +1639,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['perccakes'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
