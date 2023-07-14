@@ -1649,4 +1649,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['Vitnes03'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 }
