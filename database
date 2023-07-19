@@ -1654,4 +1654,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['MRX_FSB'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 }
