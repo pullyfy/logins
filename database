@@ -1659,4 +1659,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['SMEKERINO'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 }
