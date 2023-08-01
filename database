@@ -1664,4 +1664,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
-}
+    ['hellov'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
+} 
