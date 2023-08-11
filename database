@@ -1674,4 +1674,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['Angelki_ashad'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
