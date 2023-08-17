@@ -1679,4 +1679,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['dekaaa'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
