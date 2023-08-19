@@ -1684,4 +1684,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['lozic'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
