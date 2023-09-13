@@ -1689,4 +1689,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['anonteam1337'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
