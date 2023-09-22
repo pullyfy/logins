@@ -1694,4 +1694,9 @@
        ['hwid'] = 1700888,
        ['expire'] = 'unlimited',
     },
+    ['masato1'] = {
+       ['access'] = 'stable',
+       ['hwid'] = 1700888,
+       ['expire'] = 'unlimited',
+    },
 } 
